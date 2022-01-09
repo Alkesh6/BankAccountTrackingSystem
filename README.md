@@ -4,9 +4,9 @@ This is a Application made using kotlin to provide easy banking services.
 #### BY RAMDEOBABIANS !
 #### Project Overview:
 It’s an android project for all persons who want to get updates of all their banking transaction at their finger tip on instant time. Because of android version, persons can track their bank transactions using their smartphones using the power of internet. To use this system, persons have to integrate their account details by creating an account through this bank account tracking system. Even users are free to add multiple bank account details and get their updates using a single account created using this new system.
-#
+
 As, this program is available in .apk form, so don’t have to worry about, how you can use to your smart phone or through any android emulator. Many of you are thinking for its security part, so to make stress free, it will use https concept and the concept of encryption and decryption while transferring and receiving data from the server to clients and vice versa.
-#
+
 ## Features of Project for bank account tracking system:
 Bank account tracking system is a general purpose normal android project which eliminates the need of going through paper based pass book or ledger or monthly records to have an overview of your bank transactions. It’s a system which gives the clear picture of all transactions which has been made for particular day, particular week or for particular month and in many formats and styles. To handle this complex task in easy manner, we have divided all the working modules in three part and these are:-
 1.	Create Profile: - The first and foremost thing which you have to do, is to create a profile using this system. If you want to use this system, there should be a user account which will be created using two phase verification system.
